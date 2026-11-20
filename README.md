@@ -1,7 +1,8 @@
 # Project 7: CI Validation for Terraform
 
-![Uploading Screenshot 2026-11-20 171309.png…]()
+## GitHub Actions Pipeline Screenshot
 
+![Terraform CI Pipeline](Screenshot%202026-11-20%20171309.png)
 
 ## Overview
 
