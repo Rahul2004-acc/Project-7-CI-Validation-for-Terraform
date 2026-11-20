@@ -1,6 +1,7 @@
 # Project 7: CI Validation for Terraform
 
-![Terraform CI Validation](https://github.com/YOUR_USERNAME/P7-CI-Validation-for-Terraform/actions/workflows/terraform-ci.yml/badge.svg)
+![Uploading Screenshot 2026-11-20 171309.png…]()
+
 
 ## Overview
 
